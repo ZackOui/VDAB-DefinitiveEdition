@@ -1,5 +1,5 @@
 
-## Basically a fan tweak of VS Dave And Bambi, with new content and more!
+## Basically a fan tweak of VS Dave And Bambi, with new content and more! + Bambi's Purgatory (we don't talk about purgatory)
 ![notkadeenginelogo](https://media.discordapp.net/attachments/855503995119075328/907232690640654366/notkadeenginelogo.png?width=921&height=701)
 ## Vs Dave And Bambi
 Vs dave and bambi github and gamebanana links https://github.com/moldycheese99/VsDave https://gamebanana.com/mods/43201
