@@ -1,5 +1,5 @@
 
-## Basically a fan tweak of VS Dave And Bambi, with new content and more! + Bambi's Purgatory (we don't talk about purgatory)
+## Basically a fan tweak of VS Dave And Bambi, with new content and more! + ~Bambi's Purgatory~ (we don't talk about ~purgatory~ mod)
 ![notkadeenginelogo](https://media.discordapp.net/attachments/855503995119075328/907232690640654366/notkadeenginelogo.png?width=921&height=701)
 ## Vs Dave And Bambi
 Vs dave and bambi github ( github gone gone :((
@@ -55,7 +55,7 @@ look what you did
 
 ![BambiLookWhatDoDone](https://cdn.discordapp.com/attachments/890546329078620170/903659144706408468/8521332-nhufncfc-v4.png)
 
-> ( ok, but did I ask?? ) -ZackOui
+> ( rato + cope harder ) -ZackOui
 
 ## Tristan
 this is tristan
@@ -66,6 +66,23 @@ say hi
 
 > ( hi tridan ) -ZackOui
 
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
 
 ## hello
 
