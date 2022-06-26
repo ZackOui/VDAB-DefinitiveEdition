@@ -55,7 +55,7 @@ look what you did
 
 ![BambiLookWhatDoDone](https://cdn.discordapp.com/attachments/890546329078620170/903659144706408468/8521332-nhufncfc-v4.png)
 
-> ( rato + cope harder ) -ZackOui
+> ( rato + cope hard ) -ZackOui
 
 ## Tristan
 this is tristan
