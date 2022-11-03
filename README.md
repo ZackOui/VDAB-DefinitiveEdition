@@ -2,8 +2,13 @@
 ## Basically a fan tweak of VS Dave And Bambi, with new content and more! + ~Bambi's Purgatory~ (we don't talk about ~purgatory~ mod)
 ![notkadeenginelogo](https://media.discordapp.net/attachments/855503995119075328/907232690640654366/notkadeenginelogo.png?width=921&height=701)
 ## Vs Dave And Bambi
-Vs dave and bambi github ( github gone gone :((
-) and gamebanana links https://github.com/moldycheese99/VsDave https://gamebanana.com/mods/43201
+Vs dave and bambi github and gamebanana links 
+
+https://github.com/MoldyGH/VsDave 
+
+https://gamebanana.com/mods/43201
+ 
+ 
  ![daveicon](https://cdn.discordapp.com/attachments/890546329078620170/903663420547665970/logoBumpin.png) 
 
 ## Dave
@@ -49,13 +54,13 @@ please... :((
 
 you didnt say hi to him
 
-> ( ok ) -ZackOui
+> ( ok so what ) -ZackOui
 
 look what you did
 
 ![BambiLookWhatDoDone](https://cdn.discordapp.com/attachments/890546329078620170/903659144706408468/8521332-nhufncfc-v4.png)
 
-> ( rato + cope hard ) -ZackOui
+> ( ratio + cope hard ) -ZackOui
 
 ## Tristan
 this is tristan
@@ -86,10 +91,4 @@ say hi
 
 ## hello
 
-i am text :DD
-
-me love v. dav &&& bamormi
-
-andalso tridan
-
-ok byee
+i already said that im not gonna make a commit on this repo/fork but since the github for 3.0 is out uhh i updated readme.md cuz why no t
