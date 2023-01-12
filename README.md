@@ -1,11 +1,13 @@
 
-## Basically a fan tweak of VS Dave And Bambi, with new content and more! + ~Bambi's Purgatory~ (we don't talk about ~purgatory~ mod)
+## Basically a fan tweak of VS Dave And Bambi, with new content and more! + ~Bambi's Purgatory~
 ![notkadeenginelogo](https://media.discordapp.net/attachments/855503995119075328/907232690640654366/notkadeenginelogo.png?width=921&height=701)
 ## Vs Dave And Bambi
 Vs dave and bambi github and gamebanana links 
 
+## bro the github is gone again lmao
 https://github.com/MoldyGH/VsDave 
 
+## game banana
 https://gamebanana.com/mods/43201
  
  
@@ -19,48 +21,38 @@ say hi to dave
 
 please say hi to him
 
-> ( hi ) -ZackOui
-
 ## Bambi
 this is bambi
 ![Bambi](https://cdn.discordapp.com/attachments/890546329078620170/907236335612473374/Bambiupa.gif)
 
 say hi to him
 
-> ( no ) -ZackOui
-
 please say hi
 
-> ( no ) -ZackOui
 
 please
 
-> ( no ) -ZackOui
 
 please
 
-> ( no ) -ZackOui
 
 please... :((
 
-> ( no ) -ZackOui
+.
 
+.
 
+.
 
-
-
-
-
+.
 
 you didnt say hi to him
 
-> ( ok so what ) -ZackOui
 
 look what you did
 
 ![BambiLookWhatDoDone](https://cdn.discordapp.com/attachments/890546329078620170/903659144706408468/8521332-nhufncfc-v4.png)
 
-> ( ratio + cope hard ) -ZackOui
 
 ## Tristan
 this is tristan
@@ -69,7 +61,6 @@ this is tristan
 
 say hi
 
-> ( hi tridan ) -ZackOui
 
 .
 
@@ -91,4 +82,6 @@ say hi
 
 ## hello
 
-i already said that im not gonna make a commit on this repo/fork but since the github for 3.0 is out uhh i updated readme.md cuz why no t
+the github is gone again lol
+
+and that means a minor update to dave and bambi
